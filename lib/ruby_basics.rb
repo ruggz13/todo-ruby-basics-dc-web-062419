@@ -1,13 +1,14 @@
 def division(num1, num2)
- 
+ quot = num1 // num2
+ quot
 end
 
 def assign_variable(value)
-  
+
 end
 
 def argue
-  
+
 end
 
 def greeting

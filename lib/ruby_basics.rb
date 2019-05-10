@@ -12,7 +12,7 @@ def argue(element)
 end
 
 def greeting(greeting, name)
-
+  puts "Nice"
 end
 
 def return_a_value

@@ -11,7 +11,7 @@ def argue(element)
   element
 end
 
-def greeting
+def greeting(greeting, name)
 
 end
 
